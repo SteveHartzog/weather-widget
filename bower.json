@@ -1,0 +1,16 @@
+{
+  "name": "weather-widget",
+  "version": "0.0.0",
+  "homepage": "https://github.com/SteveHartzog/weather-widget",
+  "authors": [
+    "Steve Hartzog <shartzog@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
